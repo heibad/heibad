@@ -7,7 +7,7 @@
 ⚡I work as a Microsoft Subject Matter Expert (Solution Architecture and Integration Specialist) at BCX Namibia, Hyper-Automation Enthusiast, DevOps realist⚡
 
 - 🔭 I’m currently working on DevOps Tooling and Solutions for FSI's
-- 🌱 I’m currently learning Sentinel, Splunk & Azure DevOps
+- 🌱 I’m currently learning K8s GCP and AWS
 - 👯 I’m looking to collaborate on IaC image building & Hardening.
 - 💬 Ask me about anything Azure Microsoft or DevOps really..
 - 📫 How to reach me: Just ping me on LinkedIn https://www.linkedin.com/in/heinrich-badenhorst-a8238a42/
