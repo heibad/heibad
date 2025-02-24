@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on Enterprise Cloud Security Architecture and Azure DevOps Solutions
 - 🌱 I'm currently pursuing AWS Solutions Architect Professional, Google Cloud Platform Architect, and Kubernetes CKA certifications
-- 👯 I'm looking to collaborate on Cloud Security Architecture and Infrastructure as Code
+- 👯 I'm looking to collaborate on Cloud Architecture and Infrastructure as Code
 - 💬 Ask me about Azure Cloud Architecture, DevSecOps, and Modern Work Technologies
 - 📫 How to reach me: Connect with me on LinkedIn https://www.linkedin.com/in/heinrich-badenhorst-a8238a42/ 
 - 😄 Passionate about delivering transformative cloud solutions that drive business value
