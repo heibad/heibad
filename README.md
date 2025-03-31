@@ -4,7 +4,7 @@
 **heibad/heibad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-⚡Technical Lead: Cloud (Azure) at CloudAndThings (Pty) Ltd, Cloud Solution Architect, Security-First DevOps Practitioner⚡
+⚡Technical Lead: Cloud (Azure) at CloudAndThings.io, Cloud Solution Architect, Security-First DevOps Practitioner⚡
 
 - 🔭 I'm currently working on Enterprise Cloud Security Architecture and Azure DevOps Solutions
 - 🌱 I'm currently pursuing AWS Solutions Architect Professional, Google Cloud Platform Architect, and Kubernetes CKA certifications
